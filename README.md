@@ -1,34 +1,35 @@
-# 🌸 Iris Flower Classification with Logistic Regression
+# 🧠 Machine Learning Mini Projects
 
-This project demonstrates a basic **machine learning workflow** using the **Iris dataset** and **Logistic Regression** from `scikit-learn`.
+This repository contains a collection of hands-on **Machine Learning mini projects**, built for experimentation, learning, and practical demonstrations of key ML concepts.
 
----
-
-## 🔍 Overview
-
-The goal is to predict the species of an iris flower based on four features:
-- Sepal Length (cm)
-- Sepal Width (cm)
-- Petal Length (cm)
-- Petal Width (cm)
+Each folder is a self-contained project that explores different aspects of machine learning, from classic classification tasks to image recognition.
 
 ---
 
-## 🧠 Machine Learning Process
+## 🚀 Objectives
 
-1. **Importing libraries**
-2. **Loading and exploring data**
-3. **Preprocessing** (splitting into features and labels)
-4. **Training** a Logistic Regression model
-5. **Making predictions**
-
----
-
-## 📁 Dataset
-
-The dataset used is:
-- `Iris.csv` from kaggle 
+- Gain practical experience with common machine learning algorithms.
+- Learn and apply data preprocessing techniques.
+- Train and evaluate models on real-world and benchmark datasets.
+- Visualize model performance and gain insights from data.
+- Understand the workflow of an end-to-end ML pipeline.
 
 ---
 
+## 🧰 Technologies Used
 
+- **Language:** Python  
+- **Tools:** Jupyter Notebook, Google Colab  
+- **Libraries:**  
+  - `scikit-learn` for machine learning models  
+  - `pandas`, `numpy` for data manipulation  
+  - `matplotlib`, `seaborn` for visualization  
+  - `tensorflow` / `keras` for deep learning (used in digit recognition)
+
+---
+
+## 📝 How to Use
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/RamanandaSindhu/AI_projects.git
